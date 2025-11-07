@@ -10,8 +10,8 @@ Using more than 20 years of historical returns and R (tidyverse, ggplot2), I tes
 - Dow Jones as control (no inefficiency)
 
 ## Files
-- analysis.R (R script for data cleaning, return calculation, and tests)
-- research_note.pdf (short formatted research note with charts)
+- Data&Regressions_working.R (R script for data cleaning, return calculation, and tests)
+- seasonality_momentum_research_note.pdf (short formatted research note with charts)
 
 ## Results (Summary)
 - Corn, Wheat, and Soybeans had statistically significant seasonal effects
