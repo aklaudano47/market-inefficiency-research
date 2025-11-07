@@ -12,3 +12,9 @@ Using more than 20 years of historical returns and R (tidyverse, ggplot2), I tes
 ## Files
 - analysis.R (R script for data cleaning, return calculation, and tests)
 - research_note.pdf (short formatted research note with charts)
+
+## Results (Summary)
+- Corn, Wheat, and Soybeans had statistically significant seasonal effects
+- Coffee and Gold displayed momentum continuation
+- Bitcoin weekly returns showed median momentum (Wilcoxon confirmed)
+- Dow Jones showed no inefficiency (efficient control asset)
