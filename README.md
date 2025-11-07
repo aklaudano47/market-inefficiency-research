@@ -18,3 +18,7 @@ Using more than 20 years of historical returns and R (tidyverse, ggplot2), I tes
 - Coffee and Gold displayed momentum continuation
 - Bitcoin weekly returns showed median momentum (Wilcoxon confirmed)
 - Dow Jones showed no inefficiency (efficient control asset)
+
+## View Files
+- [Research Note (PDF)](seasonality_momentum_research_note.pdf)
+- [R Script](Data&Regressions_working.R)
